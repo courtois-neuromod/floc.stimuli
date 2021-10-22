@@ -1,0 +1,1 @@
+6dfc19c7-53e8-4adf-ad63-01d1529d672f autoenable=true bucket=cneuromod.floc.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.floc.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1634934667.347731653s

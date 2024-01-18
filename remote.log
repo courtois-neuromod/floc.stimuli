@@ -1,1 +1,2 @@
 6dfc19c7-53e8-4adf-ad63-01d1529d672f autoenable=true bucket=cneuromod.floc.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.floc.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1634934667.347731653s
+7c03f2fc-67cb-40cd-b747-9056993cb22f archive-id=e730eb7b-0a99-453c-a861-2e21d6c72062 autoenable=true encryption=none externaltype=ora name=conp-ria-storage type=external url=ria+ssh://cneuromod@localhost:4722/data/proftpd/users/cneuromod/ria-conp timestamp=1705598001.612380863s
